@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @InternalReality
-- 👀 I’m interested in making cool projects such as apps and my AI, Mini Basalt!
-- 🌱 I’m currently learning Java, Python, and C++
-- 💞️ I’m looking to collaborate on some apps, and Mini Basalt (AI) but just know im a begginer.
+- 👀 I’m interested in making music, and some game developing here and there
+- 🌱 I’m currently learning C#, Python, and C++
 - 📫 How to reach me internalrift.wolfpack@gmail.com
 
 <!---
